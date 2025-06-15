@@ -2,7 +2,7 @@ Pirates Harbour is a content discovery website that allows users to search for t
 
 ⚠️ Disclaimer: Pirates Harbour may return links from websites that host pirated content. I do not support or promote piracy in any form. This tool is intended solely for educational and informational purposes.
 
-🔍 Features
+🔍 Features --
 Search movies, anime, web series, and more
 
 Aggregates results from 10+ reliable sources
@@ -11,7 +11,7 @@ Direct links to watch online or download
 
 Fast and lightweight interface
 
-🚧 Notes
+🚧 Notes --
 This project does not host any content.
 
 Use responsibly and in compliance with your local laws.
